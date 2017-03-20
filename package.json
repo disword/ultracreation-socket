@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-chrome-apps-socket",
-  "version": "1.2.3",
+  "name": "ultracreation-socket",
+  "version": "1.0.0",
   "description": "This plugin provides client and server sockets for Android and iOS.",
   "cordova": {
-    "id": "cordova-plugin-chrome-apps-socket",
+    "id": "ultracreation-socket",
     "platforms": [
       "android",
       "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-socket.git"
+    "url": "https://github.com/disword/ultracreation-socket.git"
   },
   "keywords": [
     "chrome",
@@ -28,8 +28,6 @@
   ],
   "author": "",
   "license": "BSD",
-  "bugs": {
-    "url": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-socket/issues"
-  },
-  "homepage": "https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-socket"
+  
+  "homepage": "https://github.com/disword/ultracreation-socket"
 }
